@@ -1,0 +1,9 @@
+
+<svg width="250" height="80" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 30px serif; fill: #4b2e20; }
+    .subtitle { font: 17px sans-serif; fill: #4b2e20; letter-spacing: 2.5px; }
+  </style>
+  <text x="10" y="35" class="title">EVEREST</text>
+  <text x="10" y="63" class="subtitle">ESPRESSO</text>
+</svg>
